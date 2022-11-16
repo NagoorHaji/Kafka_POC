@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservice-1", "microservice-1\microservice-1.csproj", "{AB789A78-B74B-4692-83BD-83A319008A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB789A78-B74B-4692-83BD-83A319008A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB789A78-B74B-4692-83BD-83A319008A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB789A78-B74B-4692-83BD-83A319008A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB789A78-B74B-4692-83BD-83A319008A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5ED127A-E894-4E86-9040-E33BEF8CE9E4}
+	EndGlobalSection
+EndGlobal

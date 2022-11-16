@@ -1,0 +1,61 @@
+Steps to download and keep the Kafka download folder in the local folder
+=========================================================================
+1. Download the latest recommended - Binary downloads(.tgz) from below Kafka site and Extract that folder under the local path example "C:/Kafka"
+http://kafka.apache.org/downloads.html
+
+Before executing below commands, change the navigate to Kafka folder path --> navigate under Config folder--> the correct the "DirPath"  
+for both files "Zookeeper Property"  and "server" files.
+
+Below five commands need to be executed in PowerShell. 
+Assume, If assume the Kafka "bin" folder  present in the path "C:/Kafka" then, in Command prompt navigate to the path "cd C:/kafka" 
+and then execute the below commands.
+
+Commands
+========
+
+1) Zookeeper Start
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+2) Kafka Start
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+3) Create Topic
+.\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic kafka_demo_topic
+
+4) Start Producer 
+.\bin\windows\kafka-console-producer.bat --bootstrap-server localhost:9092 --topic kafka_demo_topic
+
+5) Start Consumer
+.\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic kafka_demo_topic --from-beginning
+
+===================================================================================================================================
+
+
+Zookeeper Start
+C:\kafka-2.12>    zkServer
+Kafka Start
+C:\kafka-2.12>    .\bin\windows\kafka-server-start.bat .\config\server.properties
+
+Create Topic
+C:\kafka-2.12\bin\windows>    kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic temp-topic-cf
+
+Start Producer 
+C:\kafka-2.12\bin\windows>    kafka-console-producer.bat --broker-list localhost:9092 --topic temp-topic-cf
+
+Start Consumer
+C:\kafka-2.12\bin\windows>    kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic temp-topic-cf --from-beginning
+
+Topics in the list
+C:\kafka-2.12\bin\windows>    kafka-topics --zookeeper localhost:2181 --list
+
+
+================================================================
+Prerequisite
+---------------
+7Zip        https://www.7-zip.org/download.html
+
+JRE8        http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+zookeeper   https://zookeeper.apache.org/releases.html
+
+kafka       http://kafka.apache.org/downloads.html
