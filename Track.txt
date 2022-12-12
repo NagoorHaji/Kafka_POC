@@ -1,0 +1,279 @@
+
+Leave planned needs to be informed prior to deliverable person.
+
+Divy
+====
+1. He is not responsible. last time he is informing the Planned leave
+2. Productive is missing
+
+
+
+Summarize
+============
+technically strong and has been able to perform consistently well in T&M project as a sole offshore resource. 
+Being a strong Frontend  developer, He has also worked in Data Sync and SSIS Package requirements. Apart from project work, 
+He has provided extended support in the development of prototypes for Proposals of Emerging portfolio.
+
+Nagoor was an Onsite co-ordinator for GDVS Phase 3 delivery. He has worked in the planning and implementation of pre production activities,
+deployment activities and warranty support including Defect fix, Code monitoring and Team coordination and contributed to seamless project delivery.
+Nagoor got selected for T and M project in June and was able to prove his technical skills and stewardship in a short time. He has learnt 
+.Net Core and handled challenging tasks like legacy code migration
+
+Nagoor is a good individual contributor. He has taken ownership of few Modules like Genpo access, Bookings, 
+Reports, etc. as part of Wave 1 and Wave 3. All of his modules were delivered as per the schedule. 
+Since majority of modules he owned were medium complex, he was given additional responsibility of owning the Performance testing. 
+The Performance testing sign-off got delayed due to delay in validating & fixing the observations, which could have been avoided. 
+He is a very hard worker but need to improve his functional knowledge as well to justify his role at onsite
+
+Though being new to project and role, he has done requirement and impact analysis within short duration. 
+He has understood the requirements and prepared Technical Design documents which had very minimal review comments. 
+He has delivered the modules to SIT as per the plan with minimal defects. Apart from development, 
+he was Involved in project deployment activities and guided team on genpo access queries. 
+Having proved his technical and leadership capability in delivery, 
+he has to take up additional responsibilities like facing the audits, managing the SCM documents, etc.
+
+Nagoor is good and technical standpoint. He is hardworking and committed. 
+The quality of the deliverable are of high standards and have less defects. 
+Would like him to lead a team and contribute to the solutioning aspects. Would also like him to learn new technologies.
+
+Nagoor is a senior resource of the project and does justice to his role. In fact he picks up more responsibilities from assigning stories to the team, doing analysis on some new requirements for coming up with new stories etc.. He delivers all his assigned user stories on time and with quality. He is committed to the work and does deep analysis on any task assigned. He is very attentive during the calls and does not miss any points that are given. He provided support in Central time for a week when the application was released. He also provides weekend support for deployment activities. Being a senior member, he has to contribute to Recruitment drive whenever panels are required in his skillset He has to take learning sessions to new members in team and groom to next level.
+
+Thank you for your valuable feedback. Will provide more focus on the area of improvement that specified in the feedback.
+
+
+Provide details on any areas of improvement for the next year. Substantiate with a development plan.
+=====================================================================
+Can improve Onsite/Client interaction skills. Can work on gaining hands-on experience in the latest tech stack to be future ready and create POC's / reusable assets / prototypes for projects and proposals. Can take initiatives for guiding team on technical pursuits
+
+Needs improvement in verbal and email communication with customer. Can improve the application domain knowledge and become an SME in the assigned modules.
+
+Provide details on the work deliverables that the associate completed successfully, and as per expectation.
+====================================================
+Nagoor is a technically strong, independent worker. Being the only offshore resource of T and M project, He has consistently delivered enhancements in Parts Service application with latest tech stack - .Net Core and MVC with good quality. He has been involved in all phases of development from design till deployment. He has also helped in prototype creation for Kia and Hyundai proposals and participated in ideation for Hackathons.
+
+Nagoor has successfully handled the pre-production , deployment and warranty support activities for GDVS Phase 3.
+Being part of T & M project, He has successfully delivered all the enhancements in Honda - Parts applications in short time.
+He has won the confidence of customer and received KT for 14 applications in AHM-SEI for T & M production support.
+
+
+
+Costcenter Hierarchy save issue.....
+   User Story --- 2397  already requirement thier for Add/Edit mention...
+   Missed developing based on UserStory by Arhan
+
+Configuration Changes...(ShowAtPart... ShowAt)--- Machingng
+
+Production Issue
+================
+Subline Save Issue....... (Confirm/Draft)  -- Not considered Subline..
+   Save is not tested properly..
+
+CSV Peff, Subline leve IsGlcPeff not considered but data entry working fine.  
+   So he should be validated CSV peff with data entry screen
+
+
+
+Ananth
+=======
+1. Performance Issue -- because of changes in Casecade  -- Issues
+2. Date Issue -- Implementation of Momontum  -- Issues
+3.  Worked on remvoing css(Improvement)
+4.  WOrked on COmmon control implementation by getting minimal help from Senior resource
+5. Code review.....
+6. Testing he do very well..
+
+Arpit
+=====
+Not coding consciesly.. 
+Other person need to test if he coded.
+API side Property mapping mistakes often doing... Exaple mapped ParId for Shift Id in   LineShift search fuctionalites
+1. Show Active and Inactive items in dropdown, Left one problem.. (Because of without implementing)-- Not tested properly. 
+Such that missed implementation for Line dropdown in Machine screen.
+Some of the time they not going throught the assigned user story properly and miss some implementations.(For MaximoNumber to MaximoName field name and charlegth also needs be changed. But he considered changing field legnth only)
+
+2. ShiftRotation Search(API implementation) -- Active status not changed in grid if that record status is updated in Edit screen.
+
+Merge issue with Hot mix--- Did not understand the system...
+
+Unnessary UI global property declaration doing.  So required keen code review before.(example just simple validation at save side he has declared many global variable in TS file that is not required)
+If he Fixes somthing that opens other thing...  
+And also he is not googling and finding solution for some cases he is depending on the our guide always.
+
+Sri
+====
+1. Not capture all scenarios.....  Decimal should not be allowed for a text box even if user do copy past.... This scenario was missed.
+2. He is not holding the list of issue that needs to be tested in QA if he aleady done in Dev(example Hot fix)
+
+
+
+
+
+Overall performance 
+Ananth is a good individual contributor. Even he came to ESL application mid of the project, he quickly gained the application knowledge. 
+He has taken ownership of few modules (Manage Admin screen) and completed those with minimal defects.
+His testing skill helped lot in finding out observations earlier and delivering quality in production release. 
+He has contributed on project Daily activities (Moving PEFF manually). 
+
+Expected Area of improvement 
+We Would like him to learn new technologies and contribute to the solutioning aspects. 
+We would like him to improve his peer code review quality to provide more comments on coding standards while code review.
+
+Deliverables completed successfully
+He took most of front-end development that made delivering most of the Manage Admin screens very faster.
+Ananth voluntarily involved in improving quality of code by keeping commonly used style sheets separately and reused the styles throughout the application and it helped in maintaining file size limit. 
+He has provided his contribution on handling challenging tasks like improving application permeance and displaying comments in daily report with expected format with minimal help from Senior resources
+He has also provided his help in project related Daily activities (Moving PEFF report)
+
+
+Arpit’s Performance Review Comments
+Overall Performance
+Arpit is good at completing the assigned work. He has contributed his best work on DB entity migrations and front-end development.  He is good at doing testing. He has provided his contribution on guiding newcomer on their onboarding process. Apart from his project work, he has also participated in PRoDIGI-2021. 
+Expected Area of improvement 
+We would like him to improve his skill in current technical stack and finding technical solutions independently. It is good if he focusses little more on coding standards.
+Deliverables completed successfully
+He has contributed lot in testing the Data entry screen functionalities that helped us delivering quality in production release. Participated on giving application demo to client. He has provided his best work on DB entity migrations and front-end development.  He has contributed his support on guiding newcomer on their onboarding process.
+
+Arhan’s Performance Review Comments
+Overall Performance
+Arhan is independent contributor, and he works well in both front end and backend application development with minimal guidance. While developing new functionalities, he covers most of the scenarios and validations. He is good at doing unit testing. Apart from his project work, he has also participated in PRoDIGI-2021. 
+Expected Area of improvement 
+We Would like him to learn current technical stack in some advance level. 
+Sometimes he his stick with his own technical idea, it is good if he considers opposite views as well for better deliverables and collaborative work.
+Deliverables completed successfully
+He has worked on critical "PEFF CSV generation" report and delivered as per the schedule. He has contributed by working on Web Api validations and update logics for most of the screens. And he also participated on giving application demo to client.
+
+
+
+
+
+Ananth
+======
+Complext daily report (MTD corrects and Subline IsActive fixed) and changes he has done
+
+Nagoor
+=======
+Participated in Weak end Drive...
+Action taken for Performance, and coding standard(Code review strictly followed and added few addtional point by reasreching)
+
+
+Arpit, 
+====
+Incompleting the user story 4061 second point not completed
+
+
+
+1. What went well in H1 2022? 
+2. What could be improved/taken up during the H2 2022? 
+3. What are his aspirations/What do you see as his growth trajectory in the Project and our organization? 
+4. Any other comments/feedback that you would like to share?
+
+
+Sri
+===
+H1-2022 - Things went well
+==========================
+As a single person, he has provided test cases for all user stories present in each sprint that helped developer to test most of the scenarios before releasing the code changes to Develop environment.
+Sri has also provided monthly weekend support for validing the functionalities that are released to production.
+
+H1-2022 - Expected improvement
+==============================
+We expect Sri to identify more findings/observation to avoid issues in production release.
+If he couldn't understand any functionality, it is better if he get clarification before misunderstaning the functionality.
+
+
+Divy
+====
+
+H1-2022 - Things went well
+==========================
+As a junior programer,  Divya has quickly understood the application functionalities and application coding flow. He has
+He has provided major support in creating DB Migration and understanding the rootcause of the observations that tester reporting.
+Provided weekend support for monthly production release.
+
+H1-2022 - Expected improvement
+==============================
+We would like him to understand the user story and its impact before start work on it.
+We expect him to do unit testing with multiple scenarios before moving changes to Dev environment.
+It is good, if he could remember the code review points/comments and do not repeat same mistake again.
+
+As a program analyst, Divya has quickly understood the application functionalities and application coding flow. 
+He has provided major support in creating DB Migration and understanding the root cause of the observations that tester reported. 
+
+We would like him to understand the user story and its impact before start work on it. We expect him to do unit testing with multiple scenarios before moving changes to Dev environment.  
+It is good, if he could remember the code review points/comments and do not repeat same mistake again. 
+I will suggest him to go through more training on the current working techlogies.
+
+
+Ananth
+======
+
+Overall Performance
+==========================
+Ananth is technically strong and has been able to perform consistently well. He has majorly worked on complex functionalities and delivered the functionalites with quality. He contributed to seamless project delivery. 
+Apart from his deliverables, he has provided support in code peer review. He has also finished his learning goal (Hack - FSE) very earlier. As a quick learner, he has completed "AWS cloud practioner" with in shor given period.
+As a full stack developer, he has provided his technical support and guide to junior team member to complete their tasks. Provided weekend support for monthly production release.
+
+Expected improvement
+==============================
+We would expect him to provide guiding to junior team members to make them become Full stack developer. 
+We would suggest him to take up few innovation programs to expose him at organization level.
+
+
+Arpit
+======
+
+H1-2022 - Things went well
+==========================
+As a individual contributor, Arpit has worked on medium level funtionalities and delivered the funtionalities with minimal defects. 
+Provided weekend support for monthly production release.
+
+H1-2022 - Expected improvement
+==============================
+We would like him to understand the user story and its impact before start work on it.
+He has to improve his knowledge in SQL and we would like him to improve his skill to independently handle the complex functionalities.
+He has to speed up his development activity.
+We expect him to do unit testing with multiple scenarios before moving changes to Dev environment and to avoid 
+It is good, if he could remember the code review points/comments and do not repeat same mistake again.
+]
+Required deep knowlege in understanding the functionalities.
+Start and complete Skillup program.
+Consicious on testing required by considering multiple template in mind
+
+
+1. Exdenting and working -- Extended support 
+2. Monthly Production release support
+3. 
+
+1. Adherence to project scope,deliverables and timelines
+2. Leveraging & adhering to architecture and Design Solutions
+3. Client interactions, escalations
+4. Mentoring junior members
+5. Communication  and Collaboration skills
+6. nnovations / Creation of reusable assets
+7. Code Quality and Code review 
+8. Unit testing and Code coverage
+https://getsling.com/blog/performance-appraisal-phrases/
+
+technically strong and has been able to perform consistently well i
+Nagoor is a good individual contributor.
+Being a strong Frontend  developer
+Team mangement..
+contributed to seamless project delivery
+he has to take up additional responsibilities like facing the audits,
+
+
+
+As an individual contributor, Arpit works well in both front end and backend application development with minimal guidance. While developing new functionalities, he covers most of the scenarios and validations. He is good at doing unit test and code coverages.  
+He is strong in logical thinking; due to that he could complete the time Overlap functionalities with minimum guidance.
+He also provided weekend support for Monthly Production release. He has contributed lot in testing the Data entry and Mange admin screen functionalities that helped us delivering quality in production release.
+
+
+
+
+
+
+
+
+
+
+Jr SE FSE1 - Digital Honors
